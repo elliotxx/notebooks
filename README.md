@@ -21,3 +21,6 @@ https://www.cnblogs.com/tongzhou/p/6795211.html
 
 * 如何让iframe背景色透明  
 https://blog.csdn.net/bestlove12345/article/details/51944473
+
+* IPython Notebooks in WordPress  
+http://www.bitsofbits.com/2015/01/19/ipython-notebooks-in-wordpress/
